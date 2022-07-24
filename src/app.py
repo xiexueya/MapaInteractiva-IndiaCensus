@@ -10,6 +10,7 @@ from dash import dcc
 from dash import html
 import plotly.express as px
 import pandas as pd
+import matplotlib
 from dash.dependencies import Input, Output
 import json
 import numpy as np
